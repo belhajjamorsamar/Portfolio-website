@@ -18,10 +18,3 @@ Here are some screenshots of the website:
 
 ![Screenshot D](https://github.com/belhajjamorsamar/Portfolio-website/assets/90092910/b9854aaf-222c-41bb-a035-c553e00fbeba)
 
-## How to Access
-
-You can access my portfolio website online by visiting the following URL: [Portfolio Website](https://your-portfolio-url.com)
-
-Feel free to explore my projects, skills, and contact me if you have any inquiries or collaboration opportunities.
-
-Thank you for visiting my portfolio!
